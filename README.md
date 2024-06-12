@@ -18,7 +18,7 @@ Follow these steps to install the 'python_package_template
 1. Clone the Repository(if applicable):
 
    ```
-   git clone https://github.com/YOUR_USERNAME_HERE/python-package-template
+   git clone https://github.com/shreeramsigdel77/python_package_template.git
    cd python_package_template
    ```
 2. Build the Package
@@ -71,7 +71,7 @@ import python_package_template
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](l) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -79,4 +79,4 @@ If you want to contribute to this project, please follow the [contribution guide
 
 ## Issues
 
-If you encounter any issues, please report them at [https://github.com/YOUR_USERNAME_HERE/python-package-template/issues](https://github.com/YOUR_USERNAME_HERE/example_package/issues).
+If you encounter any issues, please report them at [https://github.com/shreeramsigdel77/python_package_template/issues](https://github.com/shreeramsigdel77/python_package_template/issues).
