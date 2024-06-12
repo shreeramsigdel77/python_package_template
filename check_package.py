@@ -1,0 +1,3 @@
+import python_package_template
+
+print(python_package_template.__version__)
